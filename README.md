@@ -6,10 +6,22 @@ These helper supports Bootstrap 3 responsive utilities (xs, sm, md, lg). Additio
 
 ## Getting Started
 
+[Download](https://github.com/syaifulsz/bootstrap-helper-blocks/releases) latest version or install by bower:
+
+```sh
+bower install bootstrap-helper-blocks
+```
+
 Include this stylesheet code into your site:
 
 ```html
 <link rel="stylesheet" href="dist/bootstrap-helper-blocks.min.css" />
+```
+
+If you want to have a responsive margin-padding helper, include this stylesheet too:
+
+```html
+<link rel="stylesheet" href="dist/bootstrap-helper-blocks-responsive.min.css" />
 ```
 
 ## Example usage:
